@@ -1,9 +1,9 @@
 # Progress Bar
 
 ## Установка
-git clone 
-npm install
-npm run dev
+* git clone 
+* npm install
+* npm run dev
 
 ### ProgressBlock
 
